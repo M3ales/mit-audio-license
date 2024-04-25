@@ -1,6 +1,8 @@
 # mit-audio-license
 
-Generated with [Suno](https://suno.com/).
+Generated with [Suno](https://suno.com/). 
+
+Unmute the video below for an audio format license:
 
 [mit-license.webm](https://github.com/M3ales/mit-audio-license/assets/18268386/b829893d-96c7-4a87-bd61-6100b1918632)
 ```
