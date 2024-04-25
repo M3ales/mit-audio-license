@@ -3,7 +3,9 @@
 Generated with [Suno](https://suno.com/), [original](https://suno.com/song/e1a19ebc-2722-4128-994a-4e8df33a5fba).
 
 Sing along to the license below:
-https://github.com/M3ales/mit-audio-license/assets/18268386/753738a1-74fb-4421-bb57-03e860027a4c
+
+https://github.com/M3ales/mit-audio-license/assets/18268386/96beb391-8023-42aa-a5ab-8caab2ff492e
+
 
 **Recommended to unmute the above - since, you know: that's the point of the entire repo.**
 
