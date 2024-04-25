@@ -2,9 +2,11 @@
 
 Generated with [Suno](https://suno.com/), [original](https://suno.com/song/e1a19ebc-2722-4128-994a-4e8df33a5fba).
 
-Unmute the video below for an audio format license:
+Sing along to the license below:
+https://github.com/M3ales/mit-audio-license/assets/18268386/753738a1-74fb-4421-bb57-03e860027a4c
 
-[mit-license.webm](https://github.com/M3ales/mit-audio-license/assets/18268386/b829893d-96c7-4a87-bd61-6100b1918632)
+**Recommended to unmute the above - since, you know: that's the point of the entire repo.**
+
 ```
 MIT License
 
